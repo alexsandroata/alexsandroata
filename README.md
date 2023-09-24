@@ -1,17 +1,8 @@
-# 👋 OLá!
+# 👋 Olá!
 ### Eu sou Alexsandro dos Santos Ramos 
 <br><br>
 
-- ♿ I'm currently in the NIR of the <a href="http://www.rondonopolis.mt.gov.br/noticias/upa-de-rondonopolis-abre-mais-uma-porta-para-atendimento/">UPA</a> in Rondonópolis.
-
-- 🐝  I'm currently Leader on the <a href="https://linktr.ee/beestrongcode">BeeStrong Code</a> community.
-
-- 🔭 I’m currently working at **Arctouch**. 
-Working with <a href="https://stackshare.io/leticiacoelho/arctouch">this stack</a>.
-    
-- 🌱 I’m currently studing **Architecture, Algorithms and Good Practices**.
-- 💬 Ask me about **Woman in tech, PwD, educational technologies and IoT**. Or about <a href="https://stackshare.io/leticiacoelho/my-stack">my stack</a>.
-- ⚡ Fun fact: I'm a creator on the social network, as <a href="https://linktr.ee/engenheira.coelho">Engineer Rabbit</a>.
+- ♿ Estou atualmente no NIR da <a href="http://www.rondonopolis.mt.gov.br/noticias/upa-de-rondonopolis-abre-mais-uma-porta-para-atendimento/">UPA</a> de Rondonópolis.
 
 ---- 
 <!--START_SECTION:table-->
