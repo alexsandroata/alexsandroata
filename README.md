@@ -1,5 +1,5 @@
 # 👋 Hello person!
-### I'm Alexsandro dos Santos Ramos <a href="https://www.imagensanimadas.com/cat-computadores-56.htm"><img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0494.gif" border="0" alt="computador-imagem-animada-0494" /></a>
+### I'm Alexsandro dos Santos Ramos 
 <br><br>
   <img src="https://cdn.icon-icons.com/icons2/1539/PNG/512/3289564-crippled-person-disabled-person-handicapped-person-hospital-wounded-person_107106.png" border="0" alt="Pessoa com deficiência" height="30" />
 <img src="https://cdn-icons-png.flaticon.com/512/1458/1458349.png" border="0" alt="Feminista" height="30" />
