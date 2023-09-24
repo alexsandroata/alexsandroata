@@ -11,7 +11,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw8u0aPbGeOtNHMC17aBLETfZmkx3fejOfWA&usqp=CAU" border="0" alt="Nuvem de conectividade" height="35" />
 <br><br>
 
-- ♿ I'm currently admin on the <a href="https://twitter.com/i/communities/1562276249929539584">PCD Tech Community</a> on Twitter.
+- ♿ I'm currently NIR on the <a href="https://twitter.com/i/communities/1562276249929539584">UPA</a> on Rondonópolis.
 
 - 🐝  I'm currently Leader on the <a href="https://linktr.ee/beestrongcode">BeeStrong Code</a> community.
 
