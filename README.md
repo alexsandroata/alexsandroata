@@ -1,14 +1,5 @@
-# 👋 Hello person!
-### I'm Alexsandro dos Santos Ramos 
-<br><br>
-  <img src="https://cdn.icon-icons.com/icons2/1539/PNG/512/3289564-crippled-person-disabled-person-handicapped-person-hospital-wounded-person_107106.png" border="0" alt="Pessoa com deficiência" height="30" />
-<img src="https://cdn-icons-png.flaticon.com/512/1458/1458349.png" border="0" alt="Feminista" height="30" />
-<img src="https://img.icons8.com/ios/452/no-gluten.png" border="0" alt="Intolerânte ao Gluten" height="30" />
-<img src="https://img.icons8.com/ios/72/non-lactose-food.png" border="0" alt="Intolerânte a lactose" height="30" />
-<img src="https://cdn-icons-png.flaticon.com/512/65/65667.png" border="0" alt="Vinho" height="30" />
-<img src="https://cdn-icons-png.flaticon.com/512/53/53657.png" border="0" alt="Engenheira" height="35" />
-<img src="https://img1.gratispng.com/20180615/qis/kisspng-electronic-engineering-electronics-printed-circuit-pcb-5b23ab69c7dde6.1693969615290642978187.jpg" border="0" alt="Placa de sistemas embarcados" height="35" />
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw8u0aPbGeOtNHMC17aBLETfZmkx3fejOfWA&usqp=CAU" border="0" alt="Nuvem de conectividade" height="35" />
+# 👋 OLá!
+### Eu sou Alexsandro dos Santos Ramos 
 <br><br>
 
 - ♿ I'm currently in the NIR of the <a href="http://www.rondonopolis.mt.gov.br/noticias/upa-de-rondonopolis-abre-mais-uma-porta-para-atendimento/">UPA</a> in Rondonópolis.
