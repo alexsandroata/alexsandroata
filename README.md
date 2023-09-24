@@ -11,7 +11,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSw8u0aPbGeOtNHMC17aBLETfZmkx3fejOfWA&usqp=CAU" border="0" alt="Nuvem de conectividade" height="35" />
 <br><br>
 
-- ♿ I'm currently NIR on the <a href="http://www.rondonopolis.mt.gov.br/noticias/upa-de-rondonopolis-abre-mais-uma-porta-para-atendimento/">UPA</a> on Rondonópolis.
+- ♿ I'm currently in the NIR of the <a href="http://www.rondonopolis.mt.gov.br/noticias/upa-de-rondonopolis-abre-mais-uma-porta-para-atendimento/">UPA</a> in Rondonópolis.
 
 - 🐝  I'm currently Leader on the <a href="https://linktr.ee/beestrongcode">BeeStrong Code</a> community.
 
