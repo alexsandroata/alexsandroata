@@ -12,17 +12,27 @@
 
 | Curso | Local | Horas |
 | :---: | :---: | :---: |
-| Crie um site simples usando HTML, CSS e JavaScript | Fundação Bradesco | -- Hr |
+| Crie um site simples usando HTML, CSS e JavaScript | Fundação Bradesco | 02 Hrs |
+| Operador de Computador | SENAI-MT | -- Hrs |
+| Curso HTML5 e CSS3: módulo 1 de 5 | CursoEmVideo | 40 Hrs |
+| Curso HTML5 e CSS3: módulo 2 de 5 | CursoEmVideo | 40 Hrs |
+| Curso HTML5 e CSS3: módulo 3 de 5 | CursoEmVideo | 40 Hrs |
+| Curso HTML5 e CSS3: módulo 4 de 5 | CursoEmVideo | 40 Hrs |
+| Javascript | CursoEmVideo | 40 Hrs |
+| Linux | CursoEmVideo | 40 Hrs |
+| Git e GitHub | CursoEmVideo | 20 Hrs |
 
 </details>
 
 <details>
-<summary>Awards & Contest</summary>
+<summary>Premiações & Estágios</summary>
 
 
 | Tema | Premiação |
 | :---: | :---: |
 | Melhor Atirador Artilheiro - 18º GAC 2016 | Medalha Mallet |
+| Estágio de Adaptação ao Pantanal - 18º GAC 2021 | -- |
+| Estágio de Adaptação a Selva - 18º GAC 2021 | -- |
 
 </details>
 
