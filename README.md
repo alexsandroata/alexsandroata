@@ -1,6 +1,6 @@
 # 👋 Olá!
 ### Eu sou Alexsandro dos Santos Ramos 
-<br><br>
+<br>
 
 - ♿ Estou atualmente no NIR da <a href="http://www.rondonopolis.mt.gov.br/noticias/upa-de-rondonopolis-abre-mais-uma-porta-para-atendimento/">UPA</a> de Rondonópolis.
 
