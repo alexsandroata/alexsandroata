@@ -13,6 +13,7 @@
 | Curso | Local | Horas |
 | :---: | :---: | :---: |
 | Crie um site simples usando HTML, CSS e JavaScript | Fundação Bradesco | 02 Hrs |
+| Linguagem de Programação Java - Básico | Fundação Bradesco | 05 Hrs |
 | Operador de Computador | SENAI-MT | -- Hrs |
 | Curso HTML5 e CSS3: módulo 1 de 5 | CursoEmVideo | 40 Hrs |
 | Curso HTML5 e CSS3: módulo 2 de 5 | CursoEmVideo | 40 Hrs |
