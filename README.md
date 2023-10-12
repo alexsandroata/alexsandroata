@@ -43,7 +43,7 @@
  # <i> "I fully believe that a great future depends on good technology and education!"</i> 
  
  <p align="left">
-  <img src=https://64.media.tumblr.com/tumblr_lz2rp0DJiS1qcla63o1_400.gifv> 
+  <img src=https://tenor.com/pt-BR/view/morning-sunshine-haggard-stress-cat-just-woke-up-gif-15750669> 
 </p>
 
 
